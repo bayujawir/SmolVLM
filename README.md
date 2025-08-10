@@ -32,6 +32,8 @@ docker run --gpus all -p 8888:8888 sensejworld/smolvlm:latest
 
 Then open: **[http://localhost:8888/ui](http://localhost:8888/ui)**
 
+<img src="https://github.com/TheMasterOfDisasters/SmolVLM/blob/main/docs/images/ui_screenshot.png?raw=true" alt="SmolVLM UI" width="100%">
+
 ---
 
 ## 🌐 API Usage Example
